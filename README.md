@@ -14,7 +14,9 @@ Welcome to **Abdi UI**, a beautifully designed, developer-friendly, and reusable
 - 🧩 Ready-to-copy code and previews
 - 💡 Clean and minimalist design system
 - 🧠 Built by [Abdi Gashahun](mailto:abdigashahun0@gmail.com)
-##PROJECT STRUCTURE
+
+📁 Project Structure
+
 abdi-ui/
 ├── public/                 # Static assets (images, icons, etc.)
 ├── src/
@@ -28,7 +30,6 @@ abdi-ui/
 ├── index.html              # Root HTML
 ├── tsconfig.json           # TypeScript configuration
 └── README.md               # Project documentation
-
 
 
 ## 🚀 Getting Started
