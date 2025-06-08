@@ -14,23 +14,23 @@ Welcome to **Abdi UI**, a beautifully designed, developer-friendly, and reusable
 - 🧩 Ready-to-copy code and previews
 - 💡 Clean and minimalist design system
 - 🧠 Built by [Abdi Gashahun](mailto:abdigashahun0@gmail.com)
-
-📁 Project Structure
+- 
+### 📁 Project Structure
 
 abdi-ui/
-├── public/                 # Static assets (images, icons, etc.)
+├── public/
+│ └── ... # Static assets (images, icons, etc.)
 ├── src/
-│   ├── components/         # All reusable UI components
-│   ├── layouts/            # Layout components (e.g., Navbar, Footer)
-│   ├── pages/              # App pages (mainly index.tsx for homepage)
-│   ├── App.tsx             # Main app file
-│   └── main.tsx            # Entry point for React
-├── tailwind.config.ts      # Tailwind CSS config
-├── postcss.config.js       # PostCSS config
-├── index.html              # Root HTML
-├── tsconfig.json           # TypeScript configuration
-└── README.md               # Project documentation
-
+│ ├── components/ # Reusable UI components
+│ ├── layouts/ # Layout components like Navbar, Footer
+│ ├── pages/ # App pages (e.g. index.tsx)
+│ ├── App.tsx # Main app file
+│ └── main.tsx # React entry point
+├── tailwind.config.ts # Tailwind CSS config file
+├── postcss.config.js # PostCSS config
+├── index.html # Root HTML file
+├── tsconfig.json # TypeScript config
+└── README.md # Project documentation
 
 ## 🚀 Getting Started
 
