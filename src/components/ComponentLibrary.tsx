@@ -33,10 +33,10 @@ export const ComponentLibrary: React.FC<ComponentLibraryProps> = ({
         <div className="text-center py-12">
           <div className="text-6xl mb-4">🔍</div>
           <h3 className="text-lg font-semibold text-gray-900 dark:text-white mb-2">
-            No components found
+            No component found
           </h3>
           <p className="text-gray-600 dark:text-gray-400">
-            Try adjusting your search or filter criteria
+            Try adjusting your search or filter criteria¹
           </p>
         </div>
       ) : (
