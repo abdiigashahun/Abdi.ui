@@ -51,7 +51,7 @@ export const ComponentCard: React.FC<ComponentCardProps> = ({ component }) => {
               {component.description}
             </p>
           </div>
-          <div className="flex items-center gap-2">
+          <div className="flex items-center gap-3">
             <button
               onClick={() => setShowCode(!showCode)}
               className={`p-2 rounded-lg transition-all duration-200 ${
